@@ -1,0 +1,5 @@
+Quy chuẩn BEM : Block Element Modifier 
+Class : Block__Element--Modifier : đây là quy chuẩn đặt tên Class của BEM 
+
+alt =- : chuyen hang 
+ctrl + d : chon nhieu
